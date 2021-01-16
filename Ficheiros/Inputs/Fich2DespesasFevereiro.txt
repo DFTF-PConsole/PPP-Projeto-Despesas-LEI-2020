@@ -1,0 +1,104 @@
+RNE Viagem COIMBRA-LISBOA#10.10#Transportes
+RNE Viagem LISBOA-COIMBRA#10.10#Transportes
+Uber Eats McDonald's Menu Big Mac#9.80#Restauracao
+Clinica Dentista#35.0#Saude
+CONTINENTE Gambão 10/20 Argentina Congelado 1un#9.57#Alimentacao
+CONTINENTE Croissant Folhado 10un#3.78#Alimentacao
+CONTINENTE Couve Flor 1un#1.49#Alimentacao
+CONTINENTE Tomate Bio Cherry 1un#2.50#Alimentacao
+CONTINENTE Mix Frutos do Bosque 1un#2.79#Alimentacao
+CONTINENTE Almôndegas de Bovino 1un#3.19#Alimentacao
+CONTINENTE Perna de Pato Congelada 2kg#11.97#Alimentacao
+CONTINENTE Iogurte Líquido Magro Amora e Mirtilo 1un#2.09#Alimentacao
+CONTINENTE Iogurte Natural 3un#4.75#Alimentacao
+Renda Casa#500#Imoveis
+Clinica Dentista#35.0#Saude
+ADIDAS Sapatilhas ADIDAS#79.99#Vestuario
+Pingo Doce ÁGUA PD 6X1,5L#1.20#Alimentacao
+Pingo Doce CHEETOS FUTEBOL 130G#1.29#Alimentacao
+ZARA CALCOES CURTO FOLHOS#39.99#Vestuario
+REPSOL Gasolina Simples 95#30.0#Transportes
+NOTE KIT Material Escolar#30.00#Educacao
+CONTINENTE Cebola 1un#1.29#Alimentacao
+CONTINENTE Batata para Assar 1un#1.58#Alimentacao
+CONTINENTE Couve Flor 1un#1.49#Alimentacao
+CONTINENTE Tomate Bio Cherry 1un#2.50#Alimentacao
+CONTINENTE Mix Frutos do Bosque 1un#2.79#Alimentacao
+CONTINENTE Lombos de Salmão 1un#9.59#Alimentacao
+CONTINENTE Painho Alentejano Fatiado 1un#1.59#Alimentacao
+CONTINENTE Costeletas de Borrego Nacional 1kg#10.99#Alimentacao
+CONTINENTE Pá de Borrego Nacional 1kg#7.99#Alimentacao
+CONTINENTE Lombo de Porco Assar sem Osso 1kg#4.99#Alimentacao
+CONTINENTE Almôndegas de Bovino 1un#3.19#Alimentacao
+CONTINENTE Perna de Pato Congelada 2kg#11.97#Alimentacao
+CONTINENTE Iogurte Líquido Magro Amora e Mirtilo 1un#2.09#Alimentacao
+CONTINENTE Iogurte Natural 3un#4.75#Alimentacao
+BOXELETRONICA Kit Avançado para Arduino Mega#80.00#Outros
+WOOK Livro O Retrato de Dorian Gray#8.90#Educacao
+RNE Viagem COIMBRA-LISBOA#10.10#Transportes
+REPSOL Gasolina Simples 95#40.0#Transportes
+Farmacia Máscara FFP2#9.80#Saude
+Clinica Dentista#35.0#Saude
+CONTINENTE Bimbo Pão de Forma sem Côdea 1un#1.49#Alimentacao
+CONTINENTE Cebola 1un#1.29#Alimentacao
+CONTINENTE Batata para Assar 1un#1.58#Alimentacao
+CONTINENTE Couve Flor 1un#1.49#Alimentacao
+CONTINENTE Tomate Bio Cherry 1un#2.50#Alimentacao
+CONTINENTE Mix Frutos do Bosque 1un#2.79#Alimentacao
+CONTINENTE Lombos de Salmão 1un#9.59#Alimentacao
+CONTINENTE Painho Alentejano Fatiado 1un#1.59#Alimentacao
+CONTINENTE Costeletas de Borrego Nacional 1kg#10.99#Alimentacao
+CONTINENTE Pá de Borrego Nacional 1kg#7.99#Alimentacao
+CONTINENTE Lombo de Porco Assar sem Osso 1kg#4.99#Alimentacao
+CONTINENTE Almôndegas de Bovino 1un#3.19#Alimentacao
+Pingo Doce CHOC.COOKIES PD 225G#1.99#Alimentacao
+NOS Cinema Bilhete Cinema#6.25#Outros
+REPSOL Gasolina Simples 95#20.0#Transportes
+CONTINENTE Batata para Assar 10un#13.58#Alimentacao
+CONTINENTE Couve Flor 3un#4.49#Alimentacao
+CONTINENTE Lombo de Porco Assar sem Osso 1kg#4.99#Alimentacao
+CONTINENTE Lombos de Salmão 1un#9.59#Alimentacao
+CONTINENTE Costeletas de Borrego Nacional 2kg#20.98#Alimentacao
+FNAC Switch D-Link GO-SW-5G 5 Portas Gigabit#19.99#Outros
+FNAC 2 x Cabo Ethernet Sinox One RJ45 CAT6 2M#16.97#Outros
+AVON Mesmerize Black for Him#30.99#Beleza
+CONTINENTE Gambão 10/20 Argentina Congelado 1un#9.57#Alimentacao
+CONTINENTE Costeletas de Borrego Nacional 1kg#10.99#Alimentacao
+CONTINENTE Lombo de Porco Assar sem Osso 1kg#4.99#Alimentacao
+CONTINENTE Offley Barão de Forrester Vinho Do Porto 10 Anos 5un#40.78#Alimentacao
+RNE Viagem LISBOA-COIMBRA#10.20#Transportes
+Uber Eats McDonald's Menu Big Mac#9.80#Restauracao
+Pingo Doce ÁGUA PD 6X1,5L#1.20#Alimentacao
+Pingo Doce COMPAL PÊRA 3X20CL#1.29#Alimentacao
+Pingo Doce LENÇOS PD MENTOL#0.49#Alimentacao
+WORTEN Monitor LG 27UL550-W 27" 5ms 60Hz#399.99#Outros
+PINGO DOCE IOG LQ S/LA PVIDA P4#0.99#Alimentacao
+DEPILCONCEPT#55.0#Beleza
+Clinica Dentista#35.0#Saude
+CONTINENTE Lombos de Salmão 1un#9.59#Alimentacao
+CONTINENTE Painho Alentejano Fatiado 1un#1.59#Alimentacao
+CONTINENTE Costeletas de Borrego Nacional 1kg#10.99#Alimentacao
+CONTINENTE Pá de Borrego Nacional 1kg#7.99#Alimentacao
+REPSOL Gasolina Simples 95#40.0#Transportes
+NOS Cinema Bilhete Cinema#6.25#Outros
+Farmacia Magnoral 1028 4mg/10 mLx20#9.60#Saude
+Clinica Dentista#50.0#Saude
+CONTINENTE Iogurte Líquido Magro Amora e Mirtilo 1un#2.09#Alimentacao
+CONTINENTE Iogurte Natural 3un#4.75#Alimentacao
+CONTINENTE Gambão 10/20 Argentina Congelado 3un#28.71#Alimentacao
+CONTINENTE Croissant Folhado 10un#3.78#Alimentacao
+CONTINENTE Bimbo Pão de Forma sem Côdea 1un#1.49#Alimentacao
+CONTINENTE Pá de Borrego Nacional 1kg#7.99#Alimentacao
+CONTINENTE Lombo de Porco Assar sem Osso 1kg#4.99#Alimentacao
+CONTINENTE Almôndegas de Bovino 1un#3.19#Alimentacao
+CONTINENTE Perna de Pato Congelada 2kg#11.97#Alimentacao
+Uber Eats McDonald's Menu Big Mac#9.80#Restauracao
+CONTINENTE Batata para Assar 1un#1.58#Alimentacao
+CONTINENTE Couve Flor 1un#1.49#Alimentacao
+CONTINENTE Tomate Bio Cherry 1un#2.50#Alimentacao
+CONTINENTE Mix Frutos do Bosque 1un#2.79#Alimentacao
+CONTINENTE Costeletas de Borrego Nacional 2kg#20.98#Alimentacao
+Clinica Dentista#35.0#Saude
+REPSOL Gasolina Simples 95#30.0#Transportes
+NOS Cinema Bilhete Cinema#6.25#Outros
+AVON Mesmerize Black for Him#30.99#Beleza

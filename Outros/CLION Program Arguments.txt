@@ -1,0 +1,15 @@
+>>> Linha de Comandos (Program Arguments) - Ficheiros para Escrita:
+..\ficheiros\outputs\Fich1Janeiro.txt ..\ficheiros\outputs\Fich2Janeiro.txt
+
+> ou MES FEVEREIRO
+..\ficheiros\outputs\Fich1Fevereiro.txt ..\ficheiros\outputs\Fich2Fevereiro.txt
+
+
+
+>>> STDIN - Ficheiros para Leitura:
+..\ficheiros\inputs\Fich1OrcamentosJaneiro.txt
+..\ficheiros\inputs\Fich2DespesasJaneiro.txt
+
+> ou MES FEVEREIRO
+..\ficheiros\inputs\Fich1OrcamentosFevereiro.txt
+..\ficheiros\inputs\Fich2DespesasFevereiro.txt

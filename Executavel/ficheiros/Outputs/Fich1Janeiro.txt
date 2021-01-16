@@ -1,0 +1,10 @@
+Alimentacao	548.08
+Imoveis	500.00
+Transportes	200.50
+Educacao	27.89
+Beleza	85.99
+Vestuario	99.98
+Saude	54.40
+Restauracao	19.60
+Lares	0.00
+Outros	329.45

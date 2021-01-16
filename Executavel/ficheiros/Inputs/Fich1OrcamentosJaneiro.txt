@@ -1,0 +1,10 @@
+Alimentacao#400.0
+Imoveis#500.0
+Transportes#100.0
+Educacao#50.0
+Beleza#80.0
+Vestuario#150.0
+Saude#100.0
+Restauracao#30.0
+Lares#0
+Outros#300.0
