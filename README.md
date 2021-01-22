@@ -9,4 +9,4 @@ PPP - Principios de Programacao Procedimental
 Projeto: "Analisar as Despesas Mensais de uma Pessoa"
 
 
-Autores: Dário Félix / DFTF@PConsole# (DFTF-PConsole)
+Autor: Dário Félix / DFTF@PConsole# (DFTF-PConsole)
