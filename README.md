@@ -7,3 +7,6 @@ FCTUC DEI/LEI 2019/2020 - Licenciatura em Engenharia Informatica
 PPP - Principios de Programacao Procedimental
 
 Projeto: "Analisar as Despesas Mensais de uma Pessoa"
+
+
+Autores: @DFTF-PConsole
